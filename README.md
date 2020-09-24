@@ -1,4 +1,8 @@
 ## How to use git?
+### How to initialize local repo
+* Move to newly created folder 
+(use cd command in Git Bash terminal and drag'n'drop folder to terminal from explorer)
+* Use ```git init``` in Git Bash terminal
 ### How to make and save changes
 * Make changes in working directory.
 * Check git status ``git status`` - all files that are not in staging area
