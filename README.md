@@ -10,5 +10,10 @@ are marked red.
 ```git rm --cached <file name>```
 * Save(commit) files to you local Git repo.
 ```git commit [-am] ["message"]```
-* Push changes to your remote repo.
-```git push [origin] [<branch name>]```
+* Add origin repo to your local repo settings
+```git remote add origin git@github.com:Mednyi/mytestrepo.git```
+* Set local branches to track remote and push changes
+```git push -u origin master```
+or
+```git push [origin] [<branch name>]``` if branch is already tracked
+
