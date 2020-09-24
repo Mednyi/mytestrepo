@@ -10,3 +10,5 @@ are marked red.
 ```git rm --cached <file name>```
 * Save(commit) files to you local Git repo.
 ```git commit [-am] ["message"]```
+* Push changes to your remote repo.
+```git push [origin] [<branch name>]```
