@@ -17,3 +17,5 @@ are marked red.
 or
 ```git push [origin] [<branch name>]``` if branch is already tracked
 
+### How to change current branch
+```git checkout <branch name>```
