@@ -34,3 +34,8 @@ or
 * Make, commit and push some changes per "How to make and save changes"
 * Create pull-request on github (any other VCS) from branch you're on to
 branch you want the changes to be transferred
+1. Go to "Pull requests page"
+2. Create pull request
+3. Specify from which branch you want to make pull request and to which one 
+(Warning: Arabic people created this feature)
+4. Go through pull-request (Merging, commit pull request ...) phases
