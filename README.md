@@ -25,3 +25,7 @@ or
 ```git checkout <branch name>```
 
 ### How to get (pull) changes from remote repo
+* Check status remote repo status using
+```git fetch```
+* Pull changes from remote repo if any.
+```git pull```
