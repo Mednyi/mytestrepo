@@ -29,3 +29,8 @@ or
 ```git fetch```
 * Pull changes from remote repo if any.
 ```git pull```
+
+### How to make pull-requests
+* Make, commit and push some changes per "How to make and save changes"
+* Create pull-request on github (any other VCS) from branch you're on to
+branch you want the changes to be transferred
