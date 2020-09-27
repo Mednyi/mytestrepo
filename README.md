@@ -23,3 +23,5 @@ or
 
 ### How to change current branch
 ```git checkout <branch name>```
+
+### How to get (pull) changes from remote repo
